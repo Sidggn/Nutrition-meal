@@ -1,0 +1,6 @@
+{
+  "name": "Healthyme - Customised Meal Planner",
+  "description": "Customised organic nutrition kits personally chosen by certified General Healthcare Nutritionists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
